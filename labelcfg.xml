@@ -6,7 +6,7 @@
         <item id="256" type="256" auto="0" name="我添加的" />
         <item id="254" type="254" auto="1" name="精选" />
         <item id="1" type="1" auto="1" name="风景" />
-        <item id="3" type="3" auto="1" name="动物" />
+        <item id="3" type="3" auto="0" name="动物" />
         <item id="4" type="4" auto="1" name="更多" />
         <item id="5" type="5" auto="1" name="美女" />
         <item id="6" type="6" auto="0" name="男星" />

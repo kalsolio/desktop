@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 import  os, sys, glob, shutil, re
 from PIL import Image
 from os import path
